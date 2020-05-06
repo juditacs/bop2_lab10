@@ -2,6 +2,11 @@
 
 Implement the missing functions in `String.cpp` and test your code execution with the debugger.
 
+Aside from the constructor, you don't need to handle memory directly.
+All functions can be implemented using the already existing functions.
+You don't need to write more than 3-5 lines of code for any of the functions.
+Try to figure out the most elegant solution instead of manually handling characters.
+
 # Task 2
 
 Implement quicksort as a template function that works on arbitrary types.
