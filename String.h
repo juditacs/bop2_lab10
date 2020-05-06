@@ -9,7 +9,7 @@ namespace TheUltimateString
 		// Number of characters in the string
 		unsigned int elementNum;
 		// Pointer to the memory segment containing the characters
-		char*pData;
+		char* pData;
 	
 	public:
 		// Default constructor (without arguments)
