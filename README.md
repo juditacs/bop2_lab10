@@ -1,2 +1,3 @@
-# bop2_lab10
-Lab 10 starter code
+# Lab10
+
+Implement the missing functions and test your code execution with the debugger.
